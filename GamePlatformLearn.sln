@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth.Api", "Auth.Api\Auth.Api.csproj", "{B3527862-B581-4655-860B-2D09AFF0C218}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Games.Api", "Games.Api\Games.Api.csproj", "{E26597D9-9D87-433A-B009-2DD149BED1F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Users.Api", "Users.Api\Users.Api.csproj", "{71E9DE75-FDD7-46A0-B7BC-A425E1289ED2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{B3527862-B581-4655-860B-2D09AFF0C218}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3527862-B581-4655-860B-2D09AFF0C218}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3527862-B581-4655-860B-2D09AFF0C218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E26597D9-9D87-433A-B009-2DD149BED1F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E26597D9-9D87-433A-B009-2DD149BED1F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E26597D9-9D87-433A-B009-2DD149BED1F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E26597D9-9D87-433A-B009-2DD149BED1F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71E9DE75-FDD7-46A0-B7BC-A425E1289ED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71E9DE75-FDD7-46A0-B7BC-A425E1289ED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71E9DE75-FDD7-46A0-B7BC-A425E1289ED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71E9DE75-FDD7-46A0-B7BC-A425E1289ED2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
