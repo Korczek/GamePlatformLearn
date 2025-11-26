@@ -12,13 +12,7 @@
     <projectFile profileName="https">Users.Api/Users.Api.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6eed2e5e-d036-4d9e-a5ea-ba8b2a5b9357" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.GamePlatformLearn/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GamePlatformLearn/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Auth.Api/Auth.Api.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Auth.Api/Auth.Api.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Auth.Api/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Auth.Api/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Auth.Api/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Auth.Api/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GamePlatformLearn.sln" beforeDir="false" afterPath="$PROJECT_DIR$/GamePlatformLearn.sln" afterDir="false" />
-    </list>
+    <list default="true" id="6eed2e5e-d036-4d9e-a5ea-ba8b2a5b9357" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +25,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Auth.Api/Controllers/AuthLogin.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/17194ebcd5c9ec91b768ec9b65ee2651fd54ab25fd22b3f328740d87fd188ee/AuthenticationServiceCollectionExtensions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/54804c64c7cdfc773e036ee7cb52a986ea2da3b250678fb1a2f987a5a65c4e/JwtBearerDefaults.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -38,6 +33,9 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="35ygXRVlUX08hK6o0ZZ0nwdqab5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -208,7 +206,7 @@
       <option name="presentableId" value="Default" />
       <updated>1764087765701</updated>
       <workItem from="1764087767723" duration="2527000" />
-      <workItem from="1764181800072" duration="8015000" />
+      <workItem from="1764181800072" duration="8734000" />
     </task>
     <servers />
   </component>
